@@ -7,8 +7,8 @@
 
 **Hello Readers,**
 
-<pre><code>       Samrudhi provides service to read books in Hubli.
-</code></pre>
+Samrudhi provides service to read books in Hubli.
+
 
 Membership fee : Rs 200
 
