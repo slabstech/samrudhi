@@ -1,10 +1,15 @@
 # Samrudhi Book Library
 
+<p align="center">
+<img src="a-book-a-day.jpg" width="150" height="200">
+</p>
+
+
 Hello Readers,
 
-Samrudhi provides service to read books in Hubli.
-  
-Membership fee : Rs 200 
+   Samrudhi provides service to read books in Hubli.
+
+Membership fee : Rs 200
 
 Minimum 1 book per month .
 
@@ -14,7 +19,7 @@ Concession for returning the book is one week once the book return time expires.
 
 Check for any damage before collecting the book.
 
-### Rules: 
+### Rules:
 
 •	Use Bookmarks instead of folding the paper
 
@@ -26,16 +31,13 @@ Check for any damage before collecting the book.
 
 •	Pay the price of book in advance.
 
-•	Refund policy - Rs 100 refundable after one year (memnership cancellation).
+•	Refund policy - Rs 100 refundable after one year (Membership cancellation).
 
 Address – Om Shri Heritage Apartment, Near Aegis Auto Gas, Vidyanagar, Hubli, Karnataka ,India.
 
 Timings : Monday to Friday – 4:30 pm to 6 pm.
 	        Saturday and Sunday -   10 am to 5 pm.
 
-Contact No - 
+Contact No -
 
-5 % of book fee is utilised for braille books.
-
-
-
+5 % of book fee is utilized for braille books.
