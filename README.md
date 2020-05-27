@@ -1,17 +1,18 @@
-# Samrudhi Book Library
+# **Samrudhi Book Library**
 
 <p align="center">
 <img src="a-book-a-day.jpg" width="150" height="200">
 </p>
 
 
-Hello Readers,
+**Hello Readers,**
 
-   Samrudhi provides service to read books in Hubli.
+<pre><code>       Samrudhi provides service to read books in Hubli.
+</code></pre>
 
 Membership fee : Rs 200
 
-Minimum 1 book per month .
+Minimum 1 book per month.
 
 Maximum 3 books per month.
 
@@ -21,11 +22,11 @@ Check for any damage before collecting the book.
 
 ### Rules:
 
-•	Use Bookmarks instead of folding the paper
+•	Use Bookmarks.
 
-•	Do not scribble or mark on the pages
+•	Do not scribble or mark on the pages.
 
-•	Do not stain the pages
+•	Do not stain the pages.
 
 •	Total cost to be paid if there is any damage to the book or if lost.
 
