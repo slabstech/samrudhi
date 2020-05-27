@@ -12,6 +12,8 @@ Samrudhi provides service to read books in Hubli.
 
 Membership fee : Rs 200
 
+Separate cost for each book.
+
 Minimum 1 book per month.
 
 Maximum 3 books per month.
