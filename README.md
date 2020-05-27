@@ -41,4 +41,4 @@ Timings : Monday to Friday – 4:30 pm to 6 pm.
 
 Contact No -
 
-5 % of book fee is utilized for braille books.
+5% of book fee is utilized for braille books.
