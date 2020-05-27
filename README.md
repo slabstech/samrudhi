@@ -4,15 +4,13 @@ Hello Readers,
 
 Samrudhi provides service to read books in Hubli.
   
-Membership fee – Rs 200 
+Membership fee : Rs 200 
 
 Minimum 1 book per month .
 
 Maximum 3 books per month.
 
 Concession for returning the book is one week once the book return time expires.
-
-5 % of book fee is utilised for braille books.
 
 Check for any damage before collecting the book.
 
