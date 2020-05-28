@@ -149,3 +149,19 @@ Contact No -
 | --- | --- | --- | ---|---
 |1| What If?: Serious Scientific Answers to Absurd Hypothetical Questions |Randall Munroe  | 500|50
 |2| How to be poor|George Mikes|300|30
+=======
+## Textbooks
+
+| Sl.No | Book name | Author or Publisher | MRP |Our Price in Rupees
+| --- | --- | ---| --- | ---
+| 1 | Systematic Approach to Data Structures using C | A M Padma Reddy | | 150
+| 2 | GATE Computer science and Information Technology 2015 edition | |
+| 3 | GATE Computer science and Information Technology 2016 edition | |
+| 4 | Java The Complete Reference Eigth edition | Oracle |
+| 5 | Java The Complete Reference Ninth edition | Oracle|
+| 6 | Computer Architecture and Logic Design | Bartee |
+| 7 |Distributed and Cloud Computing | |
+| 8 | Java Server Programming | |
+| 9 | Quantitative Aptitude(Fully Solved) | Dr R.S.Agarwal|
+| 10 | Professional Hibernate | |
+| 11 | Java 6 Programming Black Box | Kogent |

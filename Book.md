@@ -16,7 +16,6 @@
 | 11 | Java 6 Programming Black Box | Kogent |
 
 ## Memoir
-
 |Sl.No | Book title | Author or Publisher | MRP | Our Price in Rupees |
 | --- | --- | --- | --- | ---
 |1| Shoe Dog | Phil Knight | 400 |40
