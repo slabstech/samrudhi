@@ -9,6 +9,10 @@
 
 Samrudhi provides service to read books in Hubli.
 
+<a href="Book.md">List of Books </a>
+
+<a href="https://github.com/slabstech/samrudhi/blob/master/Book.md">List of Books Anchor</a>
+
 
 Membership fee : Rs 200
 
