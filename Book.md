@@ -86,6 +86,10 @@
 |1| Forge your Future | A. P. J. Abdul Kalam | 250|25
 |2| Thinking, Fast and Slow |Daniel Kahneman|600|120
 |3|The Lean Startup|Eric Ries|500|50
+|4|Why|Sachin Shetty||25
+|5|Exp 56 |Sachin Shetty|25
+|6|Exp 56 Vol 2|Sachin Shetty|25
+|7| Connecting the dots|Suma Shetty ||25
 
 
 ## Fantasy
