@@ -49,11 +49,13 @@ Contact No -
 
 
 ## Memoir
+
 |Sl.No | Book title | Author or Publisher | MRP | Our Price in Rupees |
 | --- | --- | --- | --- | --- |
 |1| Shoe Dog | Phil Knight | 400 |40|
 
 ## Biography
+
 |Sl.No | Book title | Author or Publisher | MRP |Our Price in Rupees |
 | --- | --- | --- | --- |---|
 |1| N R Narayana Murthy - A Biography | Ritu Singh | 165 |20|
@@ -68,6 +70,7 @@ Contact No -
 |10|Pride of the Nation: Ratan Tata|Prateeksha M. Tiwari|150|20|
 
 ## Autobiography
+
 |Sl.No | Book title | Author or Publisher |MRP| Our Price in Rupees|
 | --- | --- | --- | ---|---|
 |1| Losing My Virginity | Richard Branson | 600|120|
@@ -79,6 +82,7 @@ Contact No -
 
 
 ## Personal Development or Self-help
+
 |Sl.No | Book title | Author or Publisher |MRP| Our Price in Rupees|
 | --- | --- | --- | ---|---|
 |1| The 5 AM Club: Own Your Morning, Elevate Your Life | Robin Sharma | 350|35|
@@ -96,6 +100,7 @@ Contact No -
 
 
 ## Business Book
+
 |Sl.No | Book title | Author or Publisher |MRP| Our Price in Rupees|
 | --- | --- | --- | ---|---|
 |1| Think and Grow Rich | Napoleon Hill | 150|20|
@@ -105,6 +110,7 @@ Contact No -
 
 
 ## Reference Work
+
 |Sl.No | Book title | Author or Publisher |MRP| Our Price in Rupees|
 | --- | --- | --- | ---|---|
 |1| Book of Numbers | Shakuntala Devi | 125|20|
@@ -113,6 +119,7 @@ Contact No -
 
 
 ## Non fiction
+
 |Sl.No | Book title | Author or Publisher |MRP| Our Price in Rupees|
 | --- | --- | --- | ---|---|
 |1| Forge your Future | A. P. J. Abdul Kalam | 250|30|
@@ -125,6 +132,7 @@ Contact No -
 
 
 ## Fantasy
+
 |Sl.No | Book title | Author or Publisher |MRP| Our Price in Rupees|
 | --- | --- | --- | ---|---|
 |1| Sita | Amish Tripathi | 350|40|
@@ -138,6 +146,7 @@ Contact No -
 |1| The Girl Who Played with Fire |Stieg Larsson  | 500|50|
 
 ## Historical Fiction
+
 |Sl.No | Book title | Author or Publisher |MRP| Our Price in Rupees|
 | --- | --- | --- | ---|---|
 |1| All the Light We Cannot See |Anthony Doerr  | 500|50|
@@ -145,6 +154,7 @@ Contact No -
 
 
 ## Humour
+
 |Sl.No | Book title | Author or Publisher |MRP| Our Price in Rupees|
 | --- | --- | --- | ---|---|
 |1| What If?: Serious Scientific Answers to Absurd Hypothetical| Questions |Randall Munroe  | 500|50|
