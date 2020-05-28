@@ -32,9 +32,6 @@ Membership fee : Rs 200
 
 ### Rules:
 
-<details>
-  <summary>Click to read Rules </summary>
-
 * Use Bookmarks.
 
 * Do not scribble or mark on the pages.
@@ -47,7 +44,6 @@ Membership fee : Rs 200
 
 * Refund policy - Rs 100 refundable after one year (Membership cancellation).
 
-</details>
 
 ### Address
 * Om Shri Heritage Apartment, Near Aegis Auto Gas, Vidyanagar, Hubli, Karnataka ,India.
@@ -62,19 +58,13 @@ Membership fee : Rs 200
 
 ### Memoirs : 1
 
-<details>
-  <summary>Click to See Books on Memoir </summary>
 
 |Sl.No | Book title | Author | MRP | Our Price  |
 | --- | --- | --- | --- | --- |
 |1| Shoe Dog | Phil Knight | 400 |40|
 
-</details>
 
 ### Biography : 10
-
-<details>
-  <summary>Click to See Biography books  </summary>
 
 |Sl.No | Book title | Author | MRP |Our Price  |
 | --- | --- | --- | --- |---|
@@ -89,12 +79,9 @@ Membership fee : Rs 200
 |9|Creativity Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration |Ed Catmull |600|120|
 |10|Pride of the Nation: Ratan Tata|Prateeksha M. Tiwari|150|20|
 
-</details>
 
 ### Autobiography : 6
 
-<details>
-  <summary>Click to See Auto Biography books </summary>
 
 |Sl.No | Book title | Author |MRP| Our Price |
 | --- | --- | --- | ---|---|
@@ -105,12 +92,9 @@ Membership fee : Rs 200
 |5|A Life in Science | C.N.R.Rao|500|50|
 |6|My journey with Vadapav| Venkatesh Iyer|300|30|
 
-</details>
 
 ### Personal Development or Self-help : 12
 
-<details>
-  <summary>Click to see books on Personal Development </summary>
 
 |Sl.No | Book title | Author |MRP| Our Price |
 | --- | --- | --- | ---|---|
@@ -127,12 +111,9 @@ Membership fee : Rs 200
 |11|Everything is F*cked :A Book About Hope |Mark Manson| 500|50|
 |12|Mind is Your Business|Sadhguru|200|20|
 
-</details>
 
 ### Business Book : 4
 
-<details>
-  <summary>Click to see Business Books </summary>
 
 |Sl.No | Book title | Author |MRP| Our Price |
 | --- | --- | --- | ---|---|
@@ -141,12 +122,8 @@ Membership fee : Rs 200
 |3| Crooked Minds: Creating an Innovative Society | Kiran Karnik | 395|40|
 |4|Count Your Chickens Before They Hatch: Theory In Management | Arindam Chaudhuri|225|30|
 
-</details>
 
 ### Non fiction : 7
-
-<details>
-  <summary>Click to see Non Fiction Books </summary>
 
 |Sl.No | Book title | Author |MRP| Our Price |
 | --- | --- | --- | ---|---|
@@ -158,12 +135,8 @@ Membership fee : Rs 200
 |6|Exp 56 Vol 2|Sachin Shetty|250|30|
 |7| Connecting the dots| Suma Shetty |250|30|
 
-</details>
 
 ### Puzzles : 3
-
-<details>
-  <summary>Click to see Puzzle Books </summary>
 
 |Sl.No | Book title | Author |MRP| Our Price |
 | --- | --- | --- | ---|---|
@@ -171,48 +144,33 @@ Membership fee : Rs 200
 |2| More Puzzles to Puzzle You | Shakuntala Devi | 130|20|
 |3| Super Memory: Ageless Memory | Shakuntala Devi | 295|30|
 
-</details>
 
 ### Fantasy : 2
 
-<details>
-  <summary>Click to see Books on Fantasy</summary>
 
 |Sl.No | Book title | Author |MRP| Our Price |
 | --- | --- | --- | ---|---|
 |1| Sita | Amish Tripathi | 350|40|
 |2|The Rise of Sivagami | Anand Neelakantan | 300 |30|
 
-</details>
 
 ### Thriller or Suspense : 1
-<details>
-  <summary>Click to see Thriller Books</summary>
 
 |Sl.No | Book title | Author |MRP| Our Price |
 | --- | --- | --- | ---|---|
 |1| The Girl Who Played with Fire |Stieg Larsson  | 500|50|
-</details>
-
 
 ### Historical Fiction : 2
-<details>
-  <summary>Click to see Historical fiction Books</summary>
 
 |Sl.No | Book title | Author |MRP| Our Price |
 | --- | --- | --- | ---|---|
 |1| All the Light We Cannot See |Anthony Doerr | 500|50|
 |2| War and Peace |  Leo Tolstoy| 395|40|
 
-</details>
 
 ### Humour : 2
-<details>
-  <summary>Click to see Books on Humour</summary>
 
 |Sl.No | Book title | Author |MRP| Our Price |
 | --- | --- | --- | ---|---|
 |1| What If?: Serious Scientific Answers to Absurd Hypothetical Questions |Randall Munroe  | 500|50|
 |2| How to be poor| George Mikes|300|30|
-
-</details>
