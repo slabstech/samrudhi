@@ -157,5 +157,5 @@ Contact No -
 
 |Sl.No | Book title | Author or Publisher |MRP| Our Price in Rupees|
 | --- | --- | --- | ---|---|
-|1| What If?: Serious Scientific Answers to Absurd Hypothetical| Questions |Randall Munroe  | 500|50|
+|1| What If?: Serious Scientific Answers to Absurd Hypothetical Questions |Randall Munroe  | 500|50|
 |2| How to be poor| George Mikes|300|30|
