@@ -56,9 +56,11 @@ Samrudhi provides service to read books in Hubli.
 
 ### Timings
 * All days - 5 pm  to 6 pm.
-*Excluding National Holidays.
+* Excluding National Holidays.
 
 5% of book fee is utilized for braille books.
+
+## Total Number of Books : 115
 
 ## Genre : Available Books
 
@@ -224,6 +226,7 @@ Samrudhi provides service to read books in Hubli.
 |2| How to be poor| George Mikes|300|30|
 
 ### Crime fiction : 14
+
 |Sl.No | Book title | Author |MRP| Our Price |
 | --- | --- | --- | ---|---|
 |1| The Brethren |John Grisham | 195|20|
