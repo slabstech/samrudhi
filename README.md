@@ -10,7 +10,9 @@
 Samrudhi provides service to read books in Hubli.
 
 
-Membership fee : Rs 200
+
+
+* Membership fee : Rs 200 per year.
 
 * Separate cost for each book.
 
@@ -50,25 +52,17 @@ Membership fee : Rs 200
 
 
 ### Address
-* Om Shri Heritage Apartment, Near Aegis Auto Gas, Vidyanagar, Hubli, Karnataka ,India. Pin : 580021
+* Om Shri Heritage Apartment, Near Aegis Auto Gas, Vidyanagar, Hubli, Karnataka ,India. Pin : 580021.
 
 ### Timings
-*  Monday to Friday – 4:30 pm to 6 pm.
-* Saturday and Sunday -   10 am to 5 pm.
+* All days - 5 pm  to 6 pm.
+*Excluding National Holidays.
 
 5% of book fee is utilized for braille books.
 
 ## Genre : Available Books
 
-### Memoirs : 1
-
-
-|Sl.No | Book title | Author | MRP | Our Price  |
-| --- | --- | --- | --- | --- |
-|1| Shoe Dog | Phil Knight | 400 |40|
-
-
-### Biography : 10
+### Biography : 11
 
 |Sl.No | Book title | Author | MRP |Our Price  |
 | --- | --- | --- | --- |---|
@@ -82,6 +76,7 @@ Membership fee : Rs 200
 |8|Stay Hungry Stay Foolish|Rashmi Bansal |150|20|
 |9|Creativity Inc. |Ed Catmull |600|120|
 |10|Ratan Tata|Prateeksha Tiwari|150|20|
+|11| Shoe Dog | Phil Knight | 400 |40|
 
 
 ### Autobiography : 6
@@ -97,7 +92,7 @@ Membership fee : Rs 200
 |6|My journey with Vadapav| Venkatesh Iyer|300|30|
 
 
-### Personal Development or Self-help : 12
+### Personal Development or Self-help : 17
 
 
 |Sl.No | Book title | Author |MRP| Our Price |
@@ -114,9 +109,14 @@ Membership fee : Rs 200
 |10|13 Steps to Bloody Good Luck| Ashwin Sanghi|100|20|
 |11|Everything is F*cked :A Book About Hope |Mark Manson| 500|50|
 |12|Mind is Your Business|Sadhguru|200|20|
+|13|Forge your Future | A. P. J. Abdul Kalam | 250|30|
+|14|Thinking, Fast and Slow |Daniel Kahneman|600|120|
+|15|Why|Sachin Shetty|250|30|
+|16|Exp 56 |Sachin Shetty|250|30|
+|17|Exp 56 Vol 2|Sachin Shetty|250|30|
 
 
-### Business Book : 4
+### Business Book : 5
 
 
 |Sl.No | Book title | Author |MRP| Our Price |
@@ -125,19 +125,13 @@ Membership fee : Rs 200
 |2| Zero to One| Peter Thiel | 500|50|
 |3| Crooked Minds| Kiran Karnik | 395|40|
 |4|Count Your Chickens Before They Hatch | Arindam Chaudhuri|225|30|
+|5|The Lean Startup|Eric Ries|500|50|
 
-
-### Non fiction : 7
+### Art : 1
 
 |Sl.No | Book title | Author |MRP| Our Price |
 | --- | --- | --- | ---|---|
-|1|Forge your Future | A. P. J. Abdul Kalam | 250|30|
-|2|Thinking, Fast and Slow |Daniel Kahneman|600|120|
-|3|The Lean Startup|Eric Ries|500|50|
-|4|Why|Sachin Shetty|250|30|
-|5|Exp 56 |Sachin Shetty|250|30|
-|6|Exp 56 Vol 2|Sachin Shetty|250|30|
-|7|Connecting the dots| Suma Shetty |250|30|
+|1|Connecting the dots| Suma Shetty |250|30|
 
 
 ### Puzzles : 3
@@ -179,7 +173,7 @@ Membership fee : Rs 200
 |23|A Dance with Dragons 1: Dreams and Dust| George R. R. Martin|600|120|
 |24|A Dance with Dragons 2: After the Feast| George R. R. Martin|600|120|
 
-### Thriller or Suspense : 13
+### Thriller or Suspense : 30
 
 |Sl.No | Book title | Author |MRP| Our Price |
 | --- | --- | --- | ---|---|
@@ -196,7 +190,23 @@ Membership fee : Rs 200
 |11|Stone Cold| David Baldacci| 450|50|
 |12|Divine Justice| David Baldacci| 450|50|
 |13|Hell's Corner| David Baldacci| 450|50|
-
+|14|True Blue| David Baldacci| 400|40|
+|15|Saving Faith| David Baldacci| 400|40|
+|16|Zero Day| David Baldacci| 400|40|
+|17|The Escape| David Baldacci| 600|120|
+|18|The Sixth Man| David Baldacci| 400|40|
+|19|The Hit| David Baldacci| 550|110|
+|20|Simple Genius| David Baldacci| 400|40|
+|21|Split Second| David Baldacci| 450|50|
+|22|The Innocent| David Baldacci| 400|40|
+|23|The Last Mile| David Baldacci| 400|40|
+|24|The Christmas Train| David Baldacci| 260|30|
+|25|The Finisher| David Baldacci| 350|40|
+|26|King and Maxwell| David Baldacci| 400|40|
+|27|Wish You Well| David Baldacci| 110|20|
+|28|Hour Game| David Baldacci| 400|40|
+|29|The Winner| David Baldacci| 400|40|
+|30|Total Control| David Baldacci| 250|30|
 
 ### Historical Fiction : 2
 
@@ -212,3 +222,21 @@ Membership fee : Rs 200
 | --- | --- | --- | ---|---|
 |1| What If? |Randall Munroe  | 500|50|
 |2| How to be poor| George Mikes|300|30|
+
+### Crime fiction : 14
+|Sl.No | Book title | Author |MRP| Our Price |
+| --- | --- | --- | ---|---|
+|1| The Brethren |John Grisham | 195|20|
+|2| The Appeal |John Grisham | 400|40|
+|3| Calico Joe|John Grisham | 350|40|
+|4| Rogue Lawyer |John Grisham | 300|30|
+|5| A Painted House |John Grisham | 300|30|
+|6| The Confession |John Grisham | 500|50|
+|7| Sycamore Row |John Grisham | 400|40|
+|8| The Fugitive |John Grisham | 300|30|
+|9| The Partner |John Grisham | 300|30|
+|10| The Pelican Brief|John Grisham | 300|30|
+|11| Theodore Boone |John Grisham | 300|30|
+|12| The Accused |John Grisham | 100|10|
+|13| The Activist |John Grisham | 100|10|
+|14| The Street Lawyer |John Grisham | 400|40|
