@@ -149,20 +149,54 @@ Membership fee : Rs 200
 |3| Super Memory| Shakuntala Devi | 295|30|
 
 
-### Fantasy : 2
+### Fantasy Fiction / Adventure Fiction : 24
 
 
 |Sl.No | Book title | Author |MRP| Our Price |
 | --- | --- | --- | ---|---|
-|1| Sita | Amish Tripathi | 350|40|
-|2|The Rise of Sivagami | Anand Neelakantan | 300 |30|
+|1| Scion of Ikshvaku | Amish Tripathi | 350|40|
+|2| Sita | Amish Tripathi | 350|40|
+|3| The Immortals of Meluha | Amish Tripathi | 450|50|
+|4| The Secret of Nagas | Amish Tripathi | 400|40|
+|5| The Oath of Vayuputras | Amish Tripathi | 600|120|
+|6|The Rise of Sivagami | Anand Neelakantan | 300 |30|
+|7| The Rozabal Line | Ashwin Sanghi | 400|40|
+|8| Chanakya's Chant | Ashwin Sanghi | 400|40|
+|9| The Krishna Key | Ashwin Sanghi | 400|40|
+|10| Percy Jackson and the Lightning Thief | Rick Riordan | 400|40|
+|11| Percy Jackson and the Sea of Monsters | Rick Riordan | 400|40|
+|12| Percy Jackson and the Titan's Curse | Rick Riordan | 400|40|
+|13|Percy Jackson and the Battle of the Labyrinth| Rick Riordan| 400|40|
+|14| Percy Jackson and the Last Olympian| Rick Riordan | 400|40|
+|15|The Hunger Games| Suzanne Collins|395|40|
+|16|Catching Fire| Suzanne Collins|395|40|
+|17|Mockingjay| Suzanne Collins|395|40|
+|18|A Game of Thrones| George R. R. Martin|600|120|
+|19|A Clash of Kings| George R. R. Martin|500|50|
+|20|A Storm of Swords: Part 1 Steel and Snow| George R. R. Martin|600|120|
+|21|A Storm of Swords: Part 2 Blood and Gold| George R. R. Martin|861|170|
+|22|A Feast for Crows| George R. R. Martin|600|120|
+|23|A Dance with Dragons 1: Dreams and Dust| George R. R. Martin|600|120|
+|24|A Dance with Dragons 2: After the Feast| George R. R. Martin|600|120|
 
-
-### Thriller or Suspense : 1
+### Thriller or Suspense : 13
 
 |Sl.No | Book title | Author |MRP| Our Price |
 | --- | --- | --- | ---|---|
-|1| The Girl Who Played with Fire |Stieg Larsson  | 500|50|
+|1| The Girl Who Played with Fire |Stieg Larsson |500|50|
+|2| Angels and Demons |Dan Brown | 400|40|
+|3| The Da Vinci Code |Dan Brown | 400|40|
+|4| The Lost Symbol |Dan Brown | 400|40|
+|5| Inferno |Dan Brown | 400|40|
+|6| Origin |Dan Brown | 500|50|
+|7| Digital Fortress |Dan Brown | 400|40|
+|8|Deception Point |Dan Brown| 400|40|
+|9|The Camel Club| David Baldacci| 400|40|
+|10|The Collectors| David Baldacci| 450|50|
+|11|Stone Cold| David Baldacci| 450|50|
+|12|Divine Justice| David Baldacci| 450|50|
+|13|Hell's Corner| David Baldacci| 450|50|
+
 
 ### Historical Fiction : 2
 
