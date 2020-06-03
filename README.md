@@ -30,6 +30,9 @@ Samrudhi provides service to read books in Hubli.
 *  Cash only.
 
 
+#### Contact Person : Sahana Shetty
+
+#### Contact Number : 8073659121
 
 #### Email ID : samrudhi.library@gmail.com
 
@@ -66,7 +69,7 @@ Samrudhi provides service to read books in Hubli.
 |Sl.No | Book title | Author | MRP |Our Price  |
 | ---| --- | --- | --- |---|
 |1| N R Narayana Murthy | Ritu Singh | 165 |20|
-|2| Steve Jobs | Walter Isaacson |600|120|
+|2 | Steve Jobs | Walter Isaacson |600|120|
 |3 |Einstein | Walter Isaacson |600|120|
 |4|Elon Musk | Ashlee Vance |700| 140|
 |5| The Everything Store |Brad Stone| 600 |120|
