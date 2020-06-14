@@ -66,7 +66,7 @@ Samrudhi provides service to read books in Hubli.
 
 ### Biography : 11
 
-|Sl.No | Book title | Author | Monthly charge  |
+|Sl.No | Book title | Author | Monthly charge (Rs)  |
 | ---| --- | --- | --- |
 |1| N R Narayana Murthy | Ritu Singh | 20|
 |2 | Steve Jobs | Walter Isaacson |120|
@@ -84,7 +84,7 @@ Samrudhi provides service to read books in Hubli.
 ### Autobiography : 6
 
 
-|Sl.No | Book title | Author | Monthly charge |
+|Sl.No | Book title | Author | Monthly charge (Rs) |
 | --- | --- | --- | ---|
 |1| Losing My Virginity | Richard Branson | 120|
 |2| Autobiography of a Yogi | Paramahansa Yogananda |20|
@@ -97,7 +97,7 @@ Samrudhi provides service to read books in Hubli.
 ### Personal Development or Self-help : 17
 
 
-|Sl.No | Book title | Author |Monthly charge |
+|Sl.No | Book title | Author |Monthly charge (Rs) |
 | --- | --- | --- | ---|
 |1| The 5 AM Club | Robin Sharma | 35|
 |2| Who Will Cry When You Die | Robin Sharma | 20|
@@ -121,7 +121,7 @@ Samrudhi provides service to read books in Hubli.
 ### Business Book : 5
 
 
-|Sl.No | Book title | Author |Monthly charge |
+|Sl.No | Book title | Author |Monthly charge (Rs) |
 | --- | --- | --- | ---|
 |1| Think and Grow Rich | Napoleon Hill | 20|
 |2| Zero to One| Peter Thiel | 50|
@@ -131,14 +131,14 @@ Samrudhi provides service to read books in Hubli.
 
 ### Art : 1
 
-|Sl.No | Book title | Author | Monthly charge |
+|Sl.No | Book title | Author | Monthly charge (Rs)|
 | --- | --- | --- | ---|
 |1|Connecting the dots| Suma Shetty |30|
 
 
 ### Puzzles : 3
 
-|Sl.No | Book title | Author |Monthly charge|
+|Sl.No | Book title | Author |Monthly charge (Rs)|
 | --- | --- | --- | ---|
 |1| Book of Numbers | Shakuntala Devi | 20|
 |2| More Puzzles to Puzzle You | Shakuntala Devi |20|
@@ -148,7 +148,7 @@ Samrudhi provides service to read books in Hubli.
 ### Fantasy Fiction / Adventure Fiction : 24
 
 
-|Sl.No | Book title | Author | Monthly charge |
+|Sl.No | Book title | Author | Monthly charge (Rs) |
 | --- | --- | --- | ---|
 |1| Scion of Ikshvaku | Amish Tripathi |40|
 |2| Sita | Amish Tripathi |40|
@@ -177,7 +177,7 @@ Samrudhi provides service to read books in Hubli.
 
 ### Thriller or Suspense : 30
 
-|Sl.No | Book title | Author | Monthly charge|
+|Sl.No | Book title | Author | Monthly charge (Rs)|
 | --- | --- | --- | ---|
 |1| The Girl Who Played with Fire |Stieg Larsson |50|
 |2| Angels and Demons |Dan Brown | 40|
@@ -212,7 +212,7 @@ Samrudhi provides service to read books in Hubli.
 
 ### Historical Fiction : 2
 
-|Sl.No | Book title | Author | Monthly charge|
+|Sl.No | Book title | Author | Monthly charge (Rs)|
 | --- | --- | --- | ---|
 |1| All the Light We Cannot See |Anthony Doerr | 50|
 |2| War and Peace |  Leo Tolstoy| 40|
@@ -220,14 +220,14 @@ Samrudhi provides service to read books in Hubli.
 
 ### Humour : 2
 
-|Sl.No | Book title | Author |Monthly charge |
+|Sl.No | Book title | Author |Monthly charge (Rs)|
 | --- | --- | --- | ---|
 |1| What If? |Randall Munroe  |50|
 |2| How to be poor| George Mikes|30|
 
 ### Crime fiction : 14
 
-|Sl.No | Book title | Author |Monthly charge |
+|Sl.No | Book title | Author |Monthly charge (Rs)|
 | --- | --- | --- | ---|
 |1| The Brethren |John Grisham | 20|
 |2| The Appeal |John Grisham | 40|
