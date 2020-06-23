@@ -32,7 +32,7 @@ Samrudhi provides service to read books in Hubli.
 
 #### Contact Person : Sahana Shetty
 
-#### Contact Number : 8073659121
+#### Contact Number : 8073659121  (Whatsapp only)
 
 #### Email ID : samrudhi.library@gmail.com
 
