@@ -102,7 +102,6 @@ Samrudhi provides service to read books in Hubli.
 
 ### Personal Development or Self-help : 25
 
-
 |Sl.No | Book title | Author |Monthly charge (Rs) |
 | --- | --- | --- | ---|
 |1| The 5 AM Club | Robin Sharma | 40|
@@ -162,7 +161,6 @@ Samrudhi provides service to read books in Hubli.
 |5| Puzzles to Puzzle you| Shakuntala Devi | 30|
 
 ### Fantasy Fiction / Adventure Fiction : 37
-
 
 |Sl.No | Book title | Author | Monthly charge (Rs) |
 | --- | --- | --- | ---|
@@ -339,6 +337,7 @@ Samrudhi provides service to read books in Hubli.
 |3|Get Corporated Before You Get Fired!|Rajeev Tamhankar|20|
 
 ### Science : 2
+
 |Sl.No | Book title | Author |Monthly charge (Rs)|
 | --- | --- | --- | ---|
 |1| The Theory of Everything |Stephen Hawking |30|
