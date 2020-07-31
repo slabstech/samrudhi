@@ -50,6 +50,8 @@ Samrudhi provides service to read books in Hubli.
 
 * Refund policy - Rs 100 refundable after one year on membership cancellation.
 
+* Book will be renewed if not returned within the grace period.
+
 
 ### Address
 * Om Shri Heritage Apartment, Near Aegis Auto Gas, Vidyanagar, Hubli, Karnataka ,India. Pin : 580021.
@@ -60,7 +62,7 @@ Samrudhi provides service to read books in Hubli.
 
 5% of book fee is utilized for braille books.
 
-## Total Number of Books : 217
+## Total Number of Books : 267
 
 ## Genre : Available Books
 
@@ -84,7 +86,7 @@ Samrudhi provides service to read books in Hubli.
 
 
 
-### Autobiography : 7
+### Autobiography : 8
 
 
 |Sl.No | Book title | Author | Monthly charge (Rs) |
@@ -96,7 +98,7 @@ Samrudhi provides service to read books in Hubli.
 |5|A Life in Science | C.N.R.Rao|50|
 |6|My journey with Vadapav| Venkatesh Iyer|30|
 |7|How I Braved Anu Aunty |Varun Agarwal|30|
-
+|8|The Diary of a Young Girl|Anne Frank|30|
 
 ### Personal Development or Self-help : 25
 
@@ -159,7 +161,7 @@ Samrudhi provides service to read books in Hubli.
 |4| Figuring:The Joy of Numbers| Shakuntala Devi | 30|
 |5| Puzzles to Puzzle you| Shakuntala Devi | 30|
 
-### Fantasy Fiction / Adventure Fiction : 31
+### Fantasy Fiction / Adventure Fiction : 37
 
 
 |Sl.No | Book title | Author | Monthly charge (Rs) |
@@ -191,28 +193,38 @@ Samrudhi provides service to read books in Hubli.
 |25|A Dance with Dragons 2: After the Feast| George R. R. Martin|120|
 |26|Congo| Michael Crichton|30|
 |27|The Terminal Man| Michael Crichton|30|
-|28|Eragon|Christopher Paolini|40|
-|29|Eldest|Christopher Paolini|40|
-|30|Brisingr|Christopher Paolini|40|
-|31|The Subtle Knife|Philip Pullman|30|
+|28|Inheritance|Christopher Paolini|40|
+|29|Eragon|Christopher Paolini|40|
+|30|Eldest|Christopher Paolini|40|
+|31|Brisingr|Christopher Paolini|40|
+|32|The Subtle Knife|Philip Pullman|30|
+|33|The Lost Hero|Rick Riordan|40|
+|34|The Son of Neptune|Rick Riordan|40|
+|35|The Mark of Athena|Rick Riordan|40|
+|36|The House of Hades|Rick Riordan|40|
+|37|The Blood of Olympus|Rick Riordan|40|
 
-### Children books : 9
+### Children books : 13
 
 |Sl.No | Book title | Author | Monthly charge (Rs)|
 | --- | --- | --- | ---|
-|1| The Girl Who Played with Fire |Stieg Larsson |50|
-|2|The Magic of the Lost Temple|Sudha Murty|30|
-|3|The Serpent's Revenge|Sudha Murty|30|
-|4|Comic Con Artist(Hardy Boys)|Franklin W. Dixon|30|
-|5|Haunted(Hardy Boys)|Franklin W. Dixon|30|
-|6|The Dangerous Transmission(Hardy Boys)|Franklin W. Dixon|30|
-|7|The Search for the Snow Leopard(Hardy Boys)|Franklin W. Dixon|30|
-|8|Death and Diamonds(Hardy Boys)|Franklin W. Dixon|30|
-|9|Burned(Hardy Boys)|Franklin W. Dixon|30|
+|1|Charlie and the Chocolate Factory|Roald Dahl|30|
+|2|Fantastic Mr Fox|Roald Dahl|20|
+|3|Matilda|Roald Dahl|30|
+|4|George's Marvellous Medicine|Roald Dahl|20|
+|5| The Girl Who Played with Fire |Stieg Larsson |50|
+|6|The Magic of the Lost Temple|Sudha Murty|30|
+|7|The Serpent's Revenge|Sudha Murty|30|
+|8|Comic Con Artist(Hardy Boys)|Franklin W. Dixon|30|
+|9|Haunted(Hardy Boys)|Franklin W. Dixon|30|
+|10|The Dangerous Transmission(Hardy Boys)|Franklin W. Dixon|30|
+|11|The Search for the Snow Leopard(Hardy Boys)|Franklin W. Dixon|30|
+|12|Death and Diamonds(Hardy Boys)|Franklin W. Dixon|30|
+|13|Burned(Hardy Boys)|Franklin W. Dixon|30|
 
 
 
-### Thriller or Suspense : 77
+### Thriller or Suspense : 92
 
 |Sl.No | Book title | Author | Monthly charge (Rs)|
 | --- | --- | --- | ---|
@@ -293,14 +305,30 @@ Samrudhi provides service to read books in Hubli.
 |75|The Old Man and The Sea| Ernst Hemingway|30|
 |76|9th Judgment|James Patterson|30|
 |77|Dead Centre|Andy McNab|30|
+|78|Private India|James Patterson|40|
+|79|Private Berlin|James Patterson|40|
+|80|Only Time Will Tell|Jefffrey Archer|40|
+|81|First Among Equals|Jefffrey Archer|40|
+|82|Best kept Secret|Jefffrey Archer|40|
+|83|Mightier than the Swoord|Jefffrey Archer|40|
+|84|The Sins of the Father|Jefffrey Archer|40|
+|85|Cometh the Hour|Jefffrey Archer|40|
+|86|This was a Man|Jefffrey Archer|40|
+|87|Be Careful What You Wish For|Jefffrey Archer|40|
+|88|False Impression|Jefffrey Archer|40|
+|89|As the Crow Flies|Jefffrey Archer|40|
+|90|The Tournament|Matthew Reilly|30|
+|91|The Righteous Man|Jonathan Freedland|30|
+|92|The Bankster|Ravi Subramanian|30|
 
-### Historical Fiction : 3
+### Historical Fiction : 4
 
 |Sl.No | Book title | Author | Monthly charge (Rs)|
 | --- | --- | --- | ---|
 |1| All the Light We Cannot See |Anthony Doerr | 50|
 |2| War and Peace |  Leo Tolstoy| 40|
 |3| Band of Brothers | Stephen E. Ambrose| 40|
+|4|Sapiens:A Brief History of Humankind|Yuval Noah Harari|40|
 
 ### Humour : 3
 
@@ -310,19 +338,41 @@ Samrudhi provides service to read books in Hubli.
 |2| How to be poor| George Mikes|30|
 |3|Get Corporated Before You Get Fired!|Rajeev Tamhankar|20|
 
+### Science : 2
+|Sl.No | Book title | Author |Monthly charge (Rs)|
+| --- | --- | --- | ---|
+|1| The Theory of Everything |Stephen Hawking |30|
+|2| A Brief History Of Time|Stephen Hawking |30|
 
-### Science fiction : 6
+### Science fiction : 13
 
 |Sl.No | Book title | Author |Monthly charge (Rs)|
 | --- | --- | --- | ---|
-|1| Prelude to Foundation |Isaac Asimov |30|
-|2| Foundation's Edge |Isaac Asimov |30|
-|3| 1984|George Orwell|20|
-|4|2010: Odyssey Two|Arthur Clarke|30|
-|5|3001: The Final Odyssey|Arthur Clarke|30|
-|6| The Martian|Andy Weir|40|
+|1| Divergent|Veronica Roth|40|
+|2| Insurgent|Veronica Roth|40|
+|3| Allegiant|Veronica Roth|40|
+|4| The Maze Runner|James Dashner|30|
+|5| The Scorch Trials|James Dashner|30|
+|6| The Death Cure|James Dashner|30|
+|7| The Kill Order |James Dashner|30|
+|8| Prelude to Foundation |Isaac Asimov |30|
+|9| Foundation's Edge |Isaac Asimov |30|
+|10| 1984|George Orwell|20|
+|11|2010: Odyssey Two|Arthur Clarke|30|
+|12|3001: The Final Odyssey|Arthur Clarke|30|
+|13| The Martian|Andy Weir|40|
 
-### Crime fiction : 30
+### Romance / Fiction: 4
+|Sl.No | Book title | Author |Monthly charge (Rs)|
+| --- | --- | --- | ---|
+|1| Like It Happened Yesterday |Ravinder Singh|20|
+|2| I Too Had a Love Story|Ravinder Singh|20|
+|3| Can Love Happen Twice? |Ravinder Singh|20|
+|4| Love Stories that Touched My Heart|Ravinder Singh|20|
+
+
+
+### Crime fiction : 40
 
 |Sl.No | Book title | Author |Monthly charge (Rs)|
 | --- | --- | --- | ---|
@@ -356,3 +406,13 @@ Samrudhi provides service to read books in Hubli.
 |28| The Dogs of War |Fredrick Forsyth | 30|
 |29| The Outsider |Fredrick Forsyth | 30|
 |30| The Cuckoo's Calling |J.K.Rowling| 120|
+|31|Jack Reacher One Shot|Lee Child|40|
+|32|Make Me|Lee Child|40|
+|33|Bad Luck and Trouble|Lee Child|40|
+|34|The Enemy|Lee Child|40|
+|35|The Hard Way|Lee Child|40|
+|36|Killing Hour|Lee Child|40|
+|37|61 Hours|Lee Child|40|
+|38|Worth Dying For|Lee Child|40|
+|39|Nothing to Lose|Lee Child|40|
+|40|The Godfather|Mario Puzo|40|
